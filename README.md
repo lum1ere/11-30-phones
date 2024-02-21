@@ -15,4 +15,5 @@ Auth & Register forms.
 <img width="691" alt="image" src="https://github.com/lum1ere/11-30-phones/assets/62805755/c4f4e233-7d30-4a38-935a-e7be087b65dc">
 
 ### Карточка товара
-<img width="691" alt="image" src="https://github.com/lum1ere/11-30-phones/assets/62805755/e256d518-6f7b-482d-8242-a3d8fa8a8b4d">
+<img width="648" alt="image" src="https://github.com/lum1ere/11-30-phones/assets/62805755/0811f1cc-d07e-4626-ba84-be16acb59c7d">
+
